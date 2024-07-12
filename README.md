@@ -2,9 +2,8 @@
 <h3 align="center">A passionate coding enthusiast from India</h3>
 <img align="center" alt="Coding" src="https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashasjkumar&label=Profile%20views&color=0e75b6&style=flat" alt="yashasjkumar" /> </p>
 
-- 🔭 I’m currently working on **Building Innovative Projects**
+- 🔭 I’m currently in the pre-final year of my Bachelor of Engineering in CSE (AIML).
 
 - 🌱 I’m currently learning **React JS**
 
@@ -20,7 +19,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1phkMoWdDfy-YaNVPUPAVaa9rflOyH0I6/view?usp=drivesdk](https://drive.google.com/file/d/1phkMoWdDfy-YaNVPUPAVaa9rflOyH0I6/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think I'm funny!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
