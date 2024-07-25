@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashas J Kumar</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
-<img align="center" alt="Coding" src="https://github.com/user-attachments/assets/264e3ed8-d969-4f92-b11d-43f9e71b40d2">
+<img align="center" alt="Coding" src="https://i.ibb.co/cT3jTPV/ezgif-4-98b3e030b3.gif">
 
 <!--
 https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg
