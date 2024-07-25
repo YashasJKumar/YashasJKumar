@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Yashas J Kumar</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
-<img align="center" alt="Coding" src="https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg">
+<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/37530/screenshots/2937858/drib_blink_bot.gif">
+
+<!--
+https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg
+-->
 
 
 - 🔭 I’m currently in the pre-final year of my Bachelor of Engineering in CSE (AIML).
@@ -13,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yashas-j-kumar-portfolio.vercel.app](https://yashas-j-kumar-portfolio.vercel.app)
 
-- 💬 Ask me about **Gen-AI, Flask, Jinja2**
+- 💬 Ask me about **Gen-AI, Flask, Jinja2, DSA, ML **
 
 - 📫 How to reach me **yashasjkumar6@gmail.com**
 
