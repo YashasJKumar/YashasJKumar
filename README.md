@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yashas J Kumar</h1>
 <h3 align="center">A passionate coding enthusiast from India</h3>
-<img align="center" alt="Coding" src="https://cdnl.iconscout.com/lottie/premium/thumb/ai-robot-saying-hello-5647513-4703496.gif" width=1460 height=520>
+<img align="center" alt="Coding" src="https://static.wixstatic.com/media/b593e9_911c548609084de2b6f6786568b60ee0~mv2.gif" width=1460 height=520>
 
 <!--
 https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg
