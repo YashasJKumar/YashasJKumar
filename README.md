@@ -4,6 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI-ML Enthusiast
 ----------------
 
+<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/37530/screenshots/2937858/drib_blink_bot.gif" width=1460 height=520>
+
 I am a passionate and consistent learner with a keen interest in advanced technologies. My primary areas of focus include Artificial Intelligence & Machine Learning (AIML), Cyber Security, and Ethical Hacking. I am always eager to expand my knowledge and skills, exploring new frontiers in these dynamic fields.
 
 *   🌍  I'm based in India
@@ -19,29 +21,32 @@ I am a passionate and consistent learner with a keen interest in advanced techno
                     </p>
 
                     
-  ### Socials
-             
-    <p align="left">
-     <a href="https://www.github.com/YashasJKumar" target="_blank" rel="noreferrer">
-      <picture>
+### Socials
+
+<p align="left">
+  <a href="https://www.github.com/YashasJKumar" target="_blank" rel="noreferrer">
+    <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="http://www.instagram.com/_yashas_j_k_" target="_blank" rel="noreferrer">
-                    <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg"/>
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-                    </picture>
-                    </a>
-                      <a href="https://www.linkedin.com/in/yashasjkumar" target="_blank" rel="noreferrer">
-                    <picture>
-                <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-                    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-                    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-                    </picture>
-                    </a></p>### Badges<b>My GitHub Stats</b>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+    </picture>
+  </a>
+  <a href="http://www.instagram.com/_yashas_j_k_" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg"/>
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+    </picture>
+  </a>
+  <a href="https://www.linkedin.com/in/yashasjkumar" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    </picture>
+  </a>
+</p>
+                    
+### Badges<b>My GitHub Stats</b>
 <a  href="http://www.github.com/YashasJKumar"><img src="https://github-readme-stats.vercel.app/api?username=YashasJKumar&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YashasJKumar's GitHub stats" /></a>
 
