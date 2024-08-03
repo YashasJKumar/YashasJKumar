@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI-ML Enthusiast
 ----------------
 
-<img align="center" alt="Coding" src="https://cdn.dribbble.com/users/37530/screenshots/2937858/drib_blink_bot.gif" width=1460 height=520>
+<img align="center" alt="Coding" src="https://www.creative-tim.com/blog/content/images/2021/10/Github-profile-1.jpg">
 
 I am a passionate and consistent learner with a keen interest in advanced technologies. My primary areas of focus include Artificial Intelligence & Machine Learning (AIML), Cyber Security, and Ethical Hacking. I am always eager to expand my knowledge and skills, exploring new frontiers in these dynamic fields.
 
