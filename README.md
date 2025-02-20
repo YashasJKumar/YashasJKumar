@@ -54,6 +54,7 @@ I am a passionate and consistent learner with a keen interest in advanced techno
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
     </picture>
   </a>
+  <img width='12' />
   <a href="http://www.instagram.com/_yashas_j_k_" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg"/>
@@ -61,6 +62,7 @@ I am a passionate and consistent learner with a keen interest in advanced techno
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
     </picture>
   </a>
+  <img width='12' />
   <a href="https://www.linkedin.com/in/yashasjkumar" target="_blank" rel="noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
@@ -68,6 +70,7 @@ I am a passionate and consistent learner with a keen interest in advanced techno
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
     </picture>
   </a>
+  <img width='12' />
 </p>
                     
 ### Badges<b>My GitHub Stats</b>
