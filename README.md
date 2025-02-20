@@ -73,7 +73,7 @@ I am a passionate and consistent learner with a keen interest in advanced techno
   <img width='12' />
 </p>
                     
-### Badges<b>My GitHub Stats</b>
+### My GitHub Stats
 <a  href="http://www.github.com/YashasJKumar"><img src="https://github-readme-stats.vercel.app/api?username=YashasJKumar&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="YashasJKumar's GitHub stats" /></a>
 
 ###
